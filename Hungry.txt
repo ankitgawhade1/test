@@ -1,1 +1,6 @@
 I am Hungry
+
+if hungry(eat saamosa)
+
+else
+Do your home work
